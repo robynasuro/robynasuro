@@ -4,7 +4,7 @@ i have experience web3 since 2021 , i like running node and etc
 
 ---
 
-### Profile Stats 👀
+### Profile Views 👀
 
 <p align="center">
   <a href="https://github.com/robynasuro"><img src="https://komarev.com/ghpvc/?username=robynasuro&style=flat-square" alt="Profile views"/></a>
